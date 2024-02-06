@@ -1,0 +1,241 @@
+nav.bg-body-tertiary {
+    
+    background-color: rgb(246, 252, 244) !important;
+}
+
+body{
+    background-color: rgb(246, 252, 244) !important;
+}
+
+/*
+.
+
+
+
+
+
+}
+
+
+form{
+    width: 100%;
+    padding: 3%;
+    margin: center;
+    background-color: whhite;
+    
+}
+
+.federados{
+    text-align: center;
+    border: 1px solid black;
+    text-decoration: none;
+
+
+}
+
+*/
+p.parrafo-listas{
+    text-align: left;
+    margin-left: 20%;
+    
+}
+
+p.parrafo-necesario{
+    text-align: left;
+    margin-left: 20%;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.carreras div.col{
+    border: 0px solid black;
+    margin-right: 60px;
+    border-radius: 20px;
+  
+}
+
+form{
+    margin-top: 80px;
+}
+.formulario2{
+    display: flex;
+    flex-direction: column;
+    margin: 0 10%;
+    justify-content: center;
+    border-radius: 2px;
+    
+
+}
+.carousel-inner{
+    height: 900px;
+}
+.carousel-item{
+    width: 400px;
+}
+.container {
+    font-size: 25px;
+    
+}
+h2.principal{
+    text-align: center;
+   font-size: 50px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+   padding-top: 50px;
+   padding-bottom: 50px;}
+
+   i{
+    color: rgb(8, 7, 7);
+    font-size: 70px;
+   
+   }
+
+#tresbloques{
+    margin-bottom: 40px;
+   
+}
+.enviar{
+    margin-top: 50px;
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+.reseteo{
+    margin-top: 50px;
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 40px;
+}
+
+#mimensaje{
+    
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 40px;
+}
+.mensaje{
+    font-size: 50px;
+}
+.aviso{
+    margin-top: 50px;
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.opciones{
+    font-size: 50px;
+}
+
+#misopciones{
+   
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 40px;
+}
+
+.correo{
+    font-size: 50px;
+}
+
+#correo{
+
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+#telefono{
+   
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 40px;
+}
+
+.telefono{
+    font-size: 50px;
+}
+#texto{
+    
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 40px;
+}
+.nombre{
+    font-size: 50px;
+}
+h6{
+    background-color: rgb(217, 226, 226) ;
+    
+    
+}
+.final{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    text-align: center;
+
+}
+.fecha{
+    text-align: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.inicio{
+    font-size: 30px;
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.col{
+    text-align:center;
+    
+    
+}
+#distacia{
+    
+    background-color: rgb(169, 215, 241);
+    font-size: 40px;
+}
+#desnivel{
+    background-color: rgb(183, 231, 219);
+    font-size: 40px;
+}
+#terreno{
+  background-color: rgb(236, 240, 213);
+  font-size: 40px;
+}
+img{
+    width: 200px;
+}
+
+#cuatrobloques{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border: 1px solid black;
+    border-radius: 20px;
+   
+}
+
+.emoticono{
+    font-size: 35px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.titulos{
+    font-size: 45px;
+
+}
+#titulo1{
+    font-size: 30px;
+}
+#titulo2{
+    font-size: 30px;
+}
+#titulo3{
+    font-size: 30px;
+}
+#titulo4{
+    font-size: 30px;
+}
